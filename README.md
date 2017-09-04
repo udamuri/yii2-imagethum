@@ -1,6 +1,6 @@
 README
 ======
-Yii2 imagethum
+Yii2 imagethum 
 
 Installation
 ------------
